@@ -1,0 +1,85 @@
+{
+  "id": "c01",
+  "words": [
+    {
+      "audio": "media/c01_w01.25f5f7c7.m4a",
+      "en": "cat",
+      "id": "c01_w01",
+      "ml": "പൂച്ച",
+      "symbol": "cat.fill",
+      "translit": "poocha"
+    },
+    {
+      "audio": "media/c01_w02.54fea330.m4a",
+      "en": "dog",
+      "id": "c01_w02",
+      "ml": "നായ",
+      "symbol": "dog.fill",
+      "translit": "naaya"
+    },
+    {
+      "audio": "media/c01_w03.7dfcb683.m4a",
+      "en": "bird",
+      "id": "c01_w03",
+      "ml": "പക്ഷി",
+      "symbol": "bird.fill",
+      "translit": "pakshi"
+    },
+    {
+      "audio": "media/c01_w04.d598e5d2.m4a",
+      "en": "fish",
+      "id": "c01_w04",
+      "ml": "മീൻ",
+      "symbol": "fish.fill",
+      "translit": "meen"
+    },
+    {
+      "audio": "media/c01_w05.7cbbe4d6.m4a",
+      "en": "tree",
+      "id": "c01_w05",
+      "ml": "മരം",
+      "symbol": "tree.fill",
+      "translit": "maram"
+    },
+    {
+      "audio": "media/c01_w06.a1615571.m4a",
+      "en": "flower",
+      "id": "c01_w06",
+      "ml": "പൂവ്",
+      "symbol": "camera.macro",
+      "translit": "poovu"
+    },
+    {
+      "audio": "media/c01_w07.86d667b2.m4a",
+      "en": "sun",
+      "id": "c01_w07",
+      "ml": "സൂര്യൻ",
+      "symbol": "sun.max.fill",
+      "translit": "sooryan"
+    },
+    {
+      "audio": "media/c01_w08.1f88fc1d.m4a",
+      "en": "moon",
+      "id": "c01_w08",
+      "ml": "ചന്ദ്രൻ",
+      "symbol": "moon.fill",
+      "translit": "chandran"
+    },
+    {
+      "audio": "media/c01_w09.009744c4.m4a",
+      "en": "house",
+      "id": "c01_w09",
+      "ml": "വീട്",
+      "symbol": "house.fill",
+      "translit": "veedu"
+    },
+    {
+      "audio": "media/c01_w10.286a5e1f.m4a",
+      "en": "water",
+      "id": "c01_w10",
+      "ml": "വെള്ളം",
+      "symbol": "drop.fill",
+      "translit": "vellam"
+    }
+  ]
+}

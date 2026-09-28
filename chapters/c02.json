@@ -1,0 +1,85 @@
+{
+  "id": "c02",
+  "words": [
+    {
+      "audio": "media/c02_w01.a6f233ce.m4a",
+      "en": "book",
+      "id": "c02_w01",
+      "ml": "പുസ്തകം",
+      "symbol": "book.fill",
+      "translit": "pusthakam"
+    },
+    {
+      "audio": "media/c02_w02.3f27b4d1.m4a",
+      "en": "eye",
+      "id": "c02_w02",
+      "ml": "കണ്ണ്",
+      "symbol": "eye.fill",
+      "translit": "kannu"
+    },
+    {
+      "audio": "media/c02_w03.1cef6ced.m4a",
+      "en": "hand",
+      "id": "c02_w03",
+      "ml": "കൈ",
+      "symbol": "hand.raised.fill",
+      "translit": "kai"
+    },
+    {
+      "audio": "media/c02_w04.053c2f74.m4a",
+      "en": "car",
+      "id": "c02_w04",
+      "ml": "കാർ",
+      "symbol": "car.fill",
+      "translit": "kaar"
+    },
+    {
+      "audio": "media/c02_w05.9da5d12f.m4a",
+      "en": "rain",
+      "id": "c02_w05",
+      "ml": "മഴ",
+      "symbol": "cloud.rain.fill",
+      "translit": "mazha"
+    },
+    {
+      "audio": "media/c02_w06.e890c32b.m4a",
+      "en": "star",
+      "id": "c02_w06",
+      "ml": "നക്ഷത്രം",
+      "symbol": "star.fill",
+      "translit": "nakshathram"
+    },
+    {
+      "audio": "media/c02_w07.6817e5d8.m4a",
+      "en": "fire",
+      "id": "c02_w07",
+      "ml": "തീ",
+      "symbol": "flame.fill",
+      "translit": "thee"
+    },
+    {
+      "audio": "media/c02_w08.1e56060a.m4a",
+      "en": "bus",
+      "id": "c02_w08",
+      "ml": "ബസ്",
+      "symbol": "bus.fill",
+      "translit": "bas"
+    },
+    {
+      "audio": "media/c02_w09.220a2b23.m4a",
+      "en": "airplane",
+      "id": "c02_w09",
+      "ml": "വിമാനം",
+      "symbol": "airplane",
+      "translit": "vimaanam"
+    },
+    {
+      "audio": "media/c02_w10.22773279.m4a",
+      "en": "umbrella",
+      "id": "c02_w10",
+      "ml": "കുട",
+      "symbol": "umbrella.fill",
+      "translit": "kuda"
+    }
+  ]
+}
