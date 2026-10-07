@@ -1,0 +1,16 @@
+{
+  "chapters": [
+    {
+      "file": "L4/chapters/L4-C01.json",
+      "hash": "7f25fcb8ce",
+      "id": "L4-C01",
+      "level": "L4",
+      "order": 1,
+      "released": true,
+      "titleEn": "All about my state",
+      "titleMl": "എന്റെ കേരളം"
+    }
+  ],
+  "id": "L4",
+  "name": "Level 4"
+}
