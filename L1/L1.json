@@ -1,0 +1,16 @@
+{
+  "chapters": [
+    {
+      "file": "L1/chapters/L1-C01.json",
+      "hash": "6666a8f7c5",
+      "id": "L1-C01",
+      "level": "L1",
+      "order": 1,
+      "released": true,
+      "titleEn": "All around me",
+      "titleMl": "എന്റെ ചുറ്റും"
+    }
+  ],
+  "id": "L1",
+  "name": "Level 1"
+}

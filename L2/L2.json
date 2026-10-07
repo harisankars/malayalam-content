@@ -1,0 +1,16 @@
+{
+  "chapters": [
+    {
+      "file": "L2/chapters/L2-C01.json",
+      "hash": "0e5c0d744f",
+      "id": "L2-C01",
+      "level": "L2",
+      "order": 1,
+      "released": true,
+      "titleEn": "At home and outside",
+      "titleMl": "വീട്ടിലും പുറത്തും"
+    }
+  ],
+  "id": "L2",
+  "name": "Level 2"
+}
