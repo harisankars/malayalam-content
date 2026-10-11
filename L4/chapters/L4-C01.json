@@ -1,96 +1,287 @@
 {
   "id": "L4-C01",
+  "sentences": [
+    {
+      "blank": 2,
+      "blankText": "പുഴകൾ",
+      "en": "In kerala there are many rivers",
+      "id": "L4-C01-S01",
+      "splitAfter": 1,
+      "tiles": [
+        "കേരളത്തിൽ",
+        "ധാരാളം",
+        "പുഴകൾ",
+        "ഉണ്ട്"
+      ]
+    },
+    {
+      "en": "Beautiful forest",
+      "id": "L4-C01-S02",
+      "splitAfter": 2,
+      "tiles": [
+        "മോടി",
+        "കൂടും",
+        "മലരണിക്കാട്"
+      ]
+    },
+    {
+      "en": "Singing rivers",
+      "id": "L4-C01-S03",
+      "splitAfter": 1,
+      "tiles": [
+        "പാടും",
+        "പുഴകൾ"
+      ]
+    },
+    {
+      "en": "coconut grove swaying like spread-out peacock feathers",
+      "id": "L4-C01-S04",
+      "splitAfter": 2,
+      "tiles": [
+        "പീലി",
+        "നിവർത്തിയാടുന്ന",
+        "തെങ്ങിൻ",
+        "തോപ്പ്"
+      ]
+    },
+    {
+      "en": "Dancing ocean",
+      "id": "L4-C01-S05",
+      "splitAfter": 1,
+      "tiles": [
+        "തുള്ളിക്കളിക്കുന്ന",
+        "കടൽ"
+      ]
+    },
+    {
+      "blank": 1,
+      "blankText": "റോഡ്",
+      "en": "Wide road",
+      "id": "L4-C01-S06",
+      "splitAfter": 1,
+      "tiles": [
+        "വീതിയേറിയ",
+        "റോഡ്"
+      ]
+    },
+    {
+      "en": "big buildings",
+      "id": "L4-C01-S07",
+      "splitAfter": 1,
+      "tiles": [
+        "കൂറ്റൻ",
+        "കെട്ടിടങ്ങൾ"
+      ]
+    },
+    {
+      "blank": 3,
+      "blankText": "വാഹനങ്ങൾ",
+      "en": "Vehicles zooming back and forth in all directions",
+      "id": "L4-C01-S08",
+      "splitAfter": 2,
+      "tiles": [
+        "തലങ്ങും",
+        "വിലങ്ങും",
+        "പായുന്ന",
+        "വാഹനങ്ങൾ"
+      ]
+    },
+    {
+      "blank": 1,
+      "blankText": "പുഴ",
+      "en": "full-flowing river",
+      "id": "L4-C01-S09",
+      "tiles": [
+        "നിറഞ്ഞൊഴുകുന്ന",
+        "പുഴ"
+      ]
+    },
+    {
+      "blank": 0,
+      "blankText": "പച്ച",
+      "en": "Fields draped in lush green",
+      "id": "L4-C01-S10",
+      "splitAfter": 2,
+      "tiles": [
+        "പച്ച",
+        "വിരിച്ച",
+        "പാടങ്ങൾ"
+      ]
+    },
+    {
+      "blank": 0,
+      "blankText": "കളകളം",
+      "en": "gurgling stream",
+      "id": "L4-C01-S11",
+      "splitAfter": 2,
+      "tiles": [
+        "കളകളം",
+        "ഒഴുകുന്ന",
+        "തോട്"
+      ]
+    },
+    {
+      "blank": 1,
+      "blankText": "മുറ്റം",
+      "en": "spacious courtyard",
+      "id": "L4-C01-S12",
+      "splitAfter": 1,
+      "tiles": [
+        "വിശാലമായ",
+        "മുറ്റം"
+      ]
+    },
+    {
+      "blank": 1,
+      "blankText": "മല",
+      "en": "high mountain ranges",
+      "id": "L4-C01-S13",
+      "splitAfter": 1,
+      "tiles": [
+        "ഉയർന്ന",
+        "മലനിരകൾ"
+      ]
+    },
+    {
+      "blank": 1,
+      "blankText": "കണ്ണ്",
+      "en": "Covered grandmother's eyes",
+      "id": "L4-C01-S14",
+      "tiles": [
+        "അമ്മമ്മയുടെ",
+        "കണ്ണ്",
+        "പൊത്തി"
+      ]
+    },
+    {
+      "blank": 1,
+      "blankText": "മീൻ",
+      "en": "Fishing while sitting in a boat",
+      "id": "L4-C01-S15",
+      "tiles": [
+        "തോണിയിലിരുന്ന്",
+        "മീൻ",
+        "പിടിക്കുന്നു"
+      ]
+    }
+  ],
   "words": [
     {
       "audio": "L4/media/L4-C01-W01.29186ceb.m4a",
       "en": "river",
       "id": "L4-C01-W01",
+      "image": "L4/media/L4-C01-W01.b63a1b00.jpg",
       "ml": "പുഴ",
+      "set": 1,
       "translit": "puzha"
     },
     {
       "audio": "L4/media/L4-C01-W02.8908d725.m4a",
       "en": "small river or stream",
       "id": "L4-C01-W02",
+      "image": "L4/media/L4-C01-W02.fbcfaf73.jpg",
       "ml": "തോട്",
+      "set": 1,
       "translit": "thodu"
     },
     {
-      "audio": "L4/media/L4-C01-W03.5e54a0a8.m4a",
-      "en": "decorate",
+      "audio": "L4/media/L4-C01-W03.177d91c6.m4a",
+      "en": "flower",
       "id": "L4-C01-W03",
-      "ml": "മോടി",
-      "translit": "modi"
+      "image": "L4/media/L4-C01-W03.012ae482.jpg",
+      "ml": "മലർ",
+      "set": 1,
+      "translit": "malar"
     },
     {
       "audio": "L4/media/L4-C01-W04.f6bf9238.m4a",
       "en": "Forest stream",
       "id": "L4-C01-W04",
+      "image": "L4/media/L4-C01-W04.0892ac56.jpg",
       "ml": "കാട്ടുചോല",
+      "set": 1,
       "translit": "kattuchola"
     },
     {
-      "audio": "L4/media/L4-C01-W05.7d2327d1.m4a",
+      "audio": "L4/media/L4-C01-W05.409c9f87.m4a",
       "en": "Majestic gem-like hill",
       "id": "L4-C01-W05",
+      "image": "L4/media/L4-C01-W05.dcfdae52.jpg",
       "ml": "മാമണിമേട്",
+      "set": 1,
       "translit": "maamanimedu"
     },
     {
       "audio": "L4/media/L4-C01-W06.467ce1a9.m4a",
       "en": "Silver",
       "id": "L4-C01-W06",
+      "image": "L4/media/L4-C01-W06.cdf78758.jpg",
       "ml": "വെള്ളി",
-      "translit": "velli"
+      "set": 1,
+      "translit": "veLLi"
     },
     {
       "audio": "L4/media/L4-C01-W07.f97f56c8.m4a",
       "en": "waist chain",
       "id": "L4-C01-W07",
+      "image": "L4/media/L4-C01-W07.e76950c0.jpg",
       "ml": "അരഞ്ഞാണം",
+      "set": 1,
       "translit": "aranjaanam"
     },
     {
       "audio": "L4/media/L4-C01-W08.5731e6b5.m4a",
       "en": "sea",
       "id": "L4-C01-W08",
+      "image": "L4/media/L4-C01-W08.7c4811fd.jpg",
       "ml": "കടൽ",
+      "set": 1,
       "translit": "kadal"
     },
     {
       "audio": "L4/media/L4-C01-W09.e43852a3.m4a",
       "en": "lake",
       "id": "L4-C01-W09",
+      "image": "L4/media/L4-C01-W09.56f8e965.jpg",
       "ml": "കായൽ",
+      "set": 1,
       "translit": "kaayal"
     },
     {
       "audio": "L4/media/L4-C01-W10.c0837d3d.m4a",
       "en": "blue mountain",
       "id": "L4-C01-W10",
+      "image": "L4/media/L4-C01-W10.c363554b.jpg",
       "ml": "നീലമല",
+      "set": 1,
       "translit": "neela mala"
     },
     {
       "audio": "L4/media/L4-C01-W11.a9bed085.m4a",
       "en": "paddy field",
       "id": "L4-C01-W11",
+      "image": "L4/media/L4-C01-W11.a789fb7c.jpg",
       "ml": "വയൽ",
+      "set": 2,
       "translit": "vayal"
     },
     {
       "audio": "L4/media/L4-C01-W12.fc172fc5.m4a",
       "en": "peacock feather",
       "id": "L4-C01-W12",
+      "image": "L4/media/L4-C01-W12.c6d6b031.jpg",
       "ml": "പീലി",
+      "set": 2,
       "translit": "peeli"
     },
     {
-      "audio": "L4/media/L4-C01-W13.ddd81ef1.m4a",
-      "en": "spread out",
+      "audio": "L4/media/L4-C01-W13.250ed1d1.m4a",
+      "en": "kerelam",
       "id": "L4-C01-W13",
-      "ml": "നിവർത്തി",
-      "translit": "nivarthi"
+      "image": "L4/media/L4-C01-W13.a4b18cee.jpg",
+      "ml": "കേരളം",
+      "set": 2,
+      "translit": "keraLam"
     },
     {
       "audio": "L4/media/L4-C01-W14.997e320b.m4a",
@@ -98,34 +289,43 @@
       "id": "L4-C01-W14",
       "image": "L4/media/L4-C01-W14.d847c410.png",
       "ml": "മരതകം",
+      "set": 2,
       "translit": "marathakam"
     },
     {
       "audio": "L4/media/L4-C01-W15.1155355f.m4a",
       "en": "Grove",
       "id": "L4-C01-W15",
+      "image": "L4/media/L4-C01-W15.464b9fc6.jpg",
       "ml": "തോപ്പ്",
+      "set": 2,
       "translit": "thoppu"
     },
     {
       "audio": "L4/media/L4-C01-W16.2fea4a5e.m4a",
       "en": "Beauty",
       "id": "L4-C01-W16",
+      "image": "L4/media/L4-C01-W16.2fceb7d2.jpeg",
       "ml": "ഭംഗി",
+      "set": 2,
       "translit": "bhangi"
     },
     {
-      "audio": "L4/media/L4-C01-W17.474e9034.m4a",
+      "audio": "L4/media/L4-C01-W17.e3fccc77.m4a",
       "en": "Cool soothing light",
       "id": "L4-C01-W17",
+      "image": "L4/media/L4-C01-W17.4deeed3a.jpg",
       "ml": "കുളിരൊളി",
-      "translit": "kuliroli"
+      "set": 2,
+      "translit": "kuLiroLi"
     },
     {
       "audio": "L4/media/L4-C01-W18.1ce38852.m4a",
       "en": "Densely packed",
       "id": "L4-C01-W18",
+      "image": "L4/media/L4-C01-W18.0209881f.jpg",
       "ml": "തിങ്ങി",
+      "set": 2,
       "translit": "thingi"
     },
     {
@@ -134,7 +334,152 @@
       "id": "L4-C01-W19",
       "image": "L4/media/L4-C01-W19.32a6efe1.jpg",
       "ml": "കേരം",
+      "set": 2,
       "translit": "keram"
+    },
+    {
+      "audio": "L4/media/L4-C01-W20.a88482c5.m4a",
+      "en": "holiday",
+      "id": "L4-C01-W20",
+      "image": "L4/media/L4-C01-W20.918739cb.jpg",
+      "ml": "അവധി",
+      "set": 2,
+      "translit": "avadhi"
+    },
+    {
+      "audio": "L4/media/L4-C01-W21.65b7709d.m4a",
+      "en": "morning",
+      "id": "L4-C01-W21",
+      "image": "L4/media/L4-C01-W21.493c2f80.jpg",
+      "ml": "വെളുപ്പിന്",
+      "set": 3,
+      "translit": "veluppinu"
+    },
+    {
+      "audio": "L4/media/L4-C01-W22.b8508392.m4a",
+      "en": "to wake up",
+      "id": "L4-C01-W22",
+      "image": "L4/media/L4-C01-W22.ddeabdb6.jpg",
+      "ml": "ഉണരുക",
+      "set": 3,
+      "translit": "unnaruka"
+    },
+    {
+      "audio": "L4/media/L4-C01-W23.9e4f05ca.m4a",
+      "en": "grandmother",
+      "id": "L4-C01-W23",
+      "image": "L4/media/L4-C01-W23.14f81eb3.jpg",
+      "ml": "അമ്മമ്മ",
+      "set": 3,
+      "translit": "ammamma"
+    },
+    {
+      "audio": "L4/media/L4-C01-W24.066dcec7.m4a",
+      "en": "hometown",
+      "id": "L4-C01-W24",
+      "image": "L4/media/L4-C01-W24.2cdc7219.jpg",
+      "ml": "നാട്",
+      "set": 3,
+      "translit": "nadu"
+    },
+    {
+      "audio": "L4/media/L4-C01-W25.016163ce.m4a",
+      "en": "width",
+      "id": "L4-C01-W25",
+      "image": "L4/media/L4-C01-W25.cbfdb39f.jpg",
+      "ml": "വീതി",
+      "set": 3,
+      "translit": "veethi"
+    },
+    {
+      "audio": "L4/media/L4-C01-W26.2f3f9c7c.m4a",
+      "en": "festival",
+      "id": "L4-C01-W26",
+      "image": "L4/media/L4-C01-W26.ba620256.jpg",
+      "ml": "ഉത്സവം",
+      "set": 3,
+      "translit": "ulsavam"
+    },
+    {
+      "audio": "L4/media/L4-C01-W27.a47e65a3.m4a",
+      "en": "children",
+      "id": "L4-C01-W27",
+      "image": "L4/media/L4-C01-W27.c9307bdc.jpg",
+      "ml": "മക്കൾ",
+      "set": 3,
+      "translit": "makkal"
+    },
+    {
+      "audio": "L4/media/L4-C01-W28.fcdbe144.m4a",
+      "en": "speed",
+      "id": "L4-C01-W28",
+      "image": "L4/media/L4-C01-W28.9d49ac68.jpeg",
+      "ml": "വേഗം",
+      "set": 3,
+      "translit": "vegam"
+    },
+    {
+      "audio": "L4/media/L4-C01-W29.0129cfa6.m4a",
+      "en": "dress",
+      "id": "L4-C01-W29",
+      "image": "L4/media/L4-C01-W29.747bd9fb.jpg",
+      "ml": "വസ്ത്രം",
+      "set": 3,
+      "translit": "vasthram"
+    },
+    {
+      "audio": "L4/media/L4-C01-W30.11d4d91e.m4a",
+      "en": "sixth floor",
+      "id": "L4-C01-W30",
+      "image": "L4/media/L4-C01-W30.4301a614.jpg",
+      "ml": "ആറാം നില",
+      "set": 3,
+      "translit": "aaram nilla"
+    },
+    {
+      "audio": "L4/media/L4-C01-W31.7cd03be8.m4a",
+      "en": "stairs",
+      "id": "L4-C01-W31",
+      "image": "L4/media/L4-C01-W31.02387328.jpg",
+      "ml": "പടികൾ",
+      "set": 4,
+      "translit": "padikal"
+    },
+    {
+      "audio": "L4/media/L4-C01-W32.bd81edbb.m4a",
+      "en": "everyone",
+      "id": "L4-C01-W32",
+      "image": "L4/media/L4-C01-W32.7b152b98.jpg",
+      "ml": "എല്ലാവരും",
+      "set": 4,
+      "translit": "ellavarum"
+    },
+    {
+      "audio": "L4/media/L4-C01-W33.9fbdc85e.m4a",
+      "en": "criss cross",
+      "id": "L4-C01-W33",
+      "image": "L4/media/L4-C01-W33.d7ba6c24.jpg",
+      "ml": "തലങ്ങും വിലങ്ങും",
+      "set": 4,
+      "translit": "thalangum vilangum"
+    },
+    {
+      "audio": "L4/media/L4-C01-W34.df6a5358.m4a",
+      "en": "speeding",
+      "id": "L4-C01-W34",
+      "image": "L4/media/L4-C01-W34.e2fc471a.jpeg",
+      "ml": "പായുക",
+      "set": 4,
+      "translit": "payuka"
+    },
+    {
+      "audio": "L4/media/L4-C01-W35.9522bfda.m4a",
+      "en": "vehicle",
+      "id": "L4-C01-W35",
+      "image": "L4/media/L4-C01-W35.fda00038.jpg",
+      "ml": "വാഹനം",
+      "set": 4,
+      "translit": "vaahanam"
     }
   ]
 }

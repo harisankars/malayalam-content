@@ -2,13 +2,19 @@
   "chapters": [
     {
       "file": "L4/chapters/L4-C01.json",
-      "hash": "7f25fcb8ce",
+      "hash": "2c44220235",
       "id": "L4-C01",
       "level": "L4",
       "order": 1,
       "released": true,
+      "sentenceGames": [
+        "matchHalves",
+        "fillBlank",
+        "buildSentence"
+      ],
       "titleEn": "All about my state",
-      "titleMl": "എന്റെ കേരളം"
+      "titleMl": "എന്റെ കേരളം",
+      "wordSets": 4
     }
   ],
   "id": "L4",
