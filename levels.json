@@ -3,14 +3,14 @@
     {
       "chapterCount": 1,
       "file": "L1/L1.json",
-      "hash": "71d50b9f09",
+      "hash": "76c092f41e",
       "id": "L1",
       "name": "Level 1"
     },
     {
       "chapterCount": 1,
       "file": "L2/L2.json",
-      "hash": "847fcf80df",
+      "hash": "d34e05e774",
       "id": "L2",
       "name": "Level 2"
     },
@@ -22,5 +22,5 @@
       "name": "Level 4"
     }
   ],
-  "version": 276840984032352
+  "version": 258594299356374
 }

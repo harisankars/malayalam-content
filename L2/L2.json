@@ -7,8 +7,10 @@
       "level": "L2",
       "order": 1,
       "released": true,
+      "sentenceGames": [],
       "titleEn": "At home and outside",
-      "titleMl": "വീട്ടിലും പുറത്തും"
+      "titleMl": "വീട്ടിലും പുറത്തും",
+      "wordSets": 1
     }
   ],
   "id": "L2",

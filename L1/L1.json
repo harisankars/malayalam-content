@@ -7,8 +7,10 @@
       "level": "L1",
       "order": 1,
       "released": true,
+      "sentenceGames": [],
       "titleEn": "All around me",
-      "titleMl": "എന്റെ ചുറ്റും"
+      "titleMl": "എന്റെ ചുറ്റും",
+      "wordSets": 1
     }
   ],
   "id": "L1",
