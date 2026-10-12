@@ -1,0 +1,18 @@
+{
+  "codes": [
+    {
+      "h": "2a94289a6055c644a8cde2151fb93eb4",
+      "level": "L4",
+      "type": "student",
+      "until": "2027-06-30"
+    },
+    {
+      "h": "32591b5bf860249f8dc746722d743e09",
+      "type": "guest",
+      "until": "2026-10-25"
+    }
+  ],
+  "iterations": 100000,
+  "salt": "68588a263bc3f98afdab19e8e93a5991",
+  "version": 1
+}
