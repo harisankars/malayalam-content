@@ -10,6 +10,36 @@
       "h": "32591b5bf860249f8dc746722d743e09",
       "type": "guest",
       "until": "2026-10-25"
+    },
+    {
+      "h": "32d5f6938175b0e853f93ba79d38428a",
+      "level": "L1",
+      "type": "guest",
+      "until": "2027-06-30"
+    },
+    {
+      "h": "697908e5c41cd6cce83346c4492c7c42",
+      "level": "L5",
+      "type": "guest",
+      "until": "2027-06-30"
+    },
+    {
+      "h": "7cd93f71085fc55950130122bb7f25a7",
+      "level": "L3",
+      "type": "guest",
+      "until": "2027-06-30"
+    },
+    {
+      "h": "af5a88b3a2dc41080ef79d3884efcdc5",
+      "level": "L4",
+      "type": "guest",
+      "until": "2027-06-30"
+    },
+    {
+      "h": "e827e382cb97e358cf2b6b84d2f8c984",
+      "level": "L2",
+      "type": "guest",
+      "until": "2027-06-30"
     }
   ],
   "iterations": 100000,
